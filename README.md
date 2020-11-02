@@ -25,4 +25,4 @@ And you can verify like so
 Pros | Cons
 ------------ |-----
 Very clean  | Not open-source.
-Easy usage | ... (to be added)
+Easy usage | Not using JSON
